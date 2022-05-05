@@ -1,6 +1,6 @@
 # SnowDepth_Periodicity_LuniSolar
 
-## [Code](/Matlab Codes and Data Files)
+## Code
 MATLAB codes for calculating:
 1) Periodogram
 2) Autocorrelation
